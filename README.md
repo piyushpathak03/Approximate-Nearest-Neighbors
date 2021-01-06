@@ -1,4 +1,5 @@
 # Approximate-Nearest-Neighbors
+ANNs are a class of algorithms in which a small number of errors are allowed during the Nearest Neighbors search. But in a real-world C2C marketplace where the number of “real” neighbors is higher than the “K” nearest neighbors being searched, ANNs can achieve remarkable accuracy on par with brute-force KNN within a fraction of the time.
 
 Article https://piyushpathak03.medium.com/rip-knn-k-nearest-neighbors-long-live-anns-cacefe94ffc2
 
